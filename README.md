@@ -51,3 +51,5 @@ A statistical study I would like to create would be to compare the MechaCar vs o
 My null hypothesis would be that there is no statistical difference in mpg or purchase cost between the MechaCar and the competitors car. The alternative hypothesis would be that there is a statistical difference.
 
 A statistical test I would use would be to summarize the results and get the mean and median. I could compare the averages of mpg and cost of purchase by taking the means and medians of both populations and compare those to each other. This would give a clean picture of how MechaCar's ratings are in comparrison to competitors.
+
+I would need to have data for mpg ratings and cost of purchase prices that showed all of MechaCar's vehicles along with the competitors over an extended period of time. Once I have this, I could do the analysis to group all of the vehicles together based on manufacturer and gather the means for comparrison.
