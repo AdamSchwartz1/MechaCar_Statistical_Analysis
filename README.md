@@ -48,4 +48,4 @@ Lots 1 and 2 both have p values well over the significance level of 0.05 so thos
 ## Study Design: MechaCar vs Competition
 A statistical study I would like to create would be to compare the MechaCar vs other competitors in some key metrics. There are plenty of metrics that deserve to be tested. That includes safety rating, cost of purchase, fuel efficiency for both city and highway, horsepower, and maintenance costs. I googled the most important factors while buying a car and cost to purchase and fuel efficiency (mpg) were commonly listed so I would test those metrics in my original test.
 
-My null hypothesis would be that there is no statistical difference in mpg or purchase cost betwee the MechaCar and the competitors car. The alternative hypothesis would be that there is a statistical difference.
+My null hypothesis would be that there is no statistical difference in mpg or purchase cost between the MechaCar and the competitors car. The alternative hypothesis would be that there is a statistical difference.
