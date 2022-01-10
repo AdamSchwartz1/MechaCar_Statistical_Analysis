@@ -33,3 +33,9 @@ As a whole, the variance was below 100 PSI. From this table, we see there was a 
 When breaking down the individual lots, lots 1 and 2 performed very well. Lot 1 had a variance of 0.98 and lot 2 had a variance of 7.47. However, lot 3 did not perform up to expectations with a variance of 170.29.
 
 Overall, the production as a whole met the design specifications but that's only because lot 1 and 2 performed well. Lot 3 needs to improve their processing to decrease their variance margin.
+
+## T-Tests on Suspension Coils
+
+<img width="560" alt="Screen Shot 2022-01-10 at 2 24 39 PM" src="https://user-images.githubusercontent.com/90946252/148836744-9e3fa082-3e93-4ce2-b82c-341a3439efd3.png">
+
+<img width="635" alt="Screen Shot 2022-01-10 at 2 43 25 PM" src="https://user-images.githubusercontent.com/90946252/148836771-70120b7c-c838-42aa-8224-dd316bfa0abe.png">
