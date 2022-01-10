@@ -40,4 +40,4 @@ Overall, the production as a whole met the design specifications but that's only
 The p value of this t-test is 0.06 which means we cannot reject the null hypothesis and that the PSI across all manufacturing lots is not statistically different from the population mean of 1500.
 
 <img width="635" alt="Screen Shot 2022-01-10 at 2 43 25 PM" src="https://user-images.githubusercontent.com/90946252/148836771-70120b7c-c838-42aa-8224-dd316bfa0abe.png">
-Lots 1 and 2 both have p values of well over the significance level of 0.05 so those are not statistically different from the population mean of 1500. Lot 3 has a p value of 0.04 which means we can reject the null hypothesis and that there is a difference in the mean between lot 3 and the population.
+Lots 1 and 2 both have p values well over the significance level of 0.05 so those are not statistically different from the population mean of 1500. Lot 3 has a p value of 0.04 which means we can reject the null hypothesis and that there is a difference in the mean between lot 3 and the population.
