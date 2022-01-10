@@ -7,3 +7,7 @@ head(MechaCar)
 lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=MechaCar) #generate multiple linear regression model
 
 summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD,data=MechaCar)) #generate summary statistics
+
+SuspensionCoil <- read.csv('Suspension_Coil.csv',check.names = F,stringsAsFactors = F) # import suspension coil csv
+
+head(SuspensionCoil)
