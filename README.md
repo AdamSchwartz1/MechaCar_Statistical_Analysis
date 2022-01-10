@@ -13,6 +13,7 @@ In this test, I created a multiple linear regression test to see which measured 
 
 Note: I set the significance level to the standard level of .05.
 
+<img width="636" alt="Screen Shot 2022-01-10 at 12 45 56 PM" src="https://user-images.githubusercontent.com/90946252/148827205-9d8af27a-85e6-434c-9c5a-1c7338c54f36.png">
 
 1. According to this model, vehicle length and ground clearance, along with intercept, are the only variables that are statistically unlikely to provide random amounts of variance to this model.
 2. The slope of this line is not considered to be 0. The p value of this model is less than the set significance level which means we can reject the null hypothesis stating that the slope is 0.
