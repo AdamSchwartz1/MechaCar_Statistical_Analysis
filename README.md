@@ -32,4 +32,4 @@ As a whole, the variance was below 100 PSI. From this table, we see there was a 
 
 When breaking down the individual lots, lots 1 and 2 performed very well. Lot 1 had a variance of 0.98 and lot 2 had a variance of 7.47. However, lot 3 did not perform up to expectations with a variance of 170.29.
 
-Overall, the production as a whole meet the design specifications but that's only because lot 1 and 2 are performing well. Lot 3 needs to improve their processing to decrease their variance margin.
+Overall, the production as a whole met the design specifications but that's only because lot 1 and 2 performed well. Lot 3 needs to improve their processing to decrease their variance margin.
