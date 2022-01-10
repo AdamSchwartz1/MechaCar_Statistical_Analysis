@@ -20,4 +20,10 @@ Note: I set the significance level to the standard level of .05.
 3. The R squared value is .71 which means there's about a 70% chance that the mpg can be predicted by the independant variables. However, there is a lack of significant variables in this data set. Only 2 of the independent variables show significant relevance to predicting mpg. Due to these factors, I would say it does not predict mpg very effectively and that we should modify our model to make it more accurate.
 
 ## Summary Statistics on Suspension Coils
-The design specification for the MechaCar state that it cannot exceed a variance for the suspension coils of 100 pounds per square inch (PSI). I analyzed the current manufacturing data and will break down if these requirements were met by the total group, and then by each lot individually.
+The design specifications for the MechaCar state that it cannot exceed a variance for the suspension coils of 100 pounds per square inch (PSI). I analyzed the current manufacturing data and will break down if these requirements were met by the total group, and then by each lot individually.
+
+### Suspension Coils for all lots
+
+As a whole, the variance was below 100 PSI. From this table, we see there was a variance of 62.29 which meat the design specifications.
+
+### Suspension Coils for individual lots
