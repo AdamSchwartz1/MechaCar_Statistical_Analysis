@@ -49,3 +49,5 @@ Lots 1 and 2 both have p values well over the significance level of 0.05 so thos
 A statistical study I would like to create would be to compare the MechaCar vs other competitors in some key metrics. There are plenty of metrics that deserve to be tested. That includes safety rating, cost of purchase, fuel efficiency for both city and highway, horsepower, and maintenance costs. I googled the most important factors while buying a car and cost to purchase and fuel efficiency (mpg) were commonly listed so I would test those metrics in my original test.
 
 My null hypothesis would be that there is no statistical difference in mpg or purchase cost between the MechaCar and the competitors car. The alternative hypothesis would be that there is a statistical difference.
+
+A statistical test I would use would be to summarize the results and get the mean and median. I could compare the averages of mpg and cost of purchase by taking the means and medians of both populations and compare those to each other. This would give a clean picture of how MechaCar's ratings are in comparrison to competitors.
