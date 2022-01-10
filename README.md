@@ -30,3 +30,6 @@ As a whole, the variance was below 100 PSI. From this table, we see there was a 
 ### Suspension Coils for individual lots
 <img width="479" alt="Screen Shot 2022-01-10 at 1 58 12 PM" src="https://user-images.githubusercontent.com/90946252/148831386-ced118d4-5acc-47db-8991-cec2ebcdac23.png">
 
+When breaking down the individual lots, lots 1 and 2 performed very well. Lot 1 had a variance of 0.98 and lot 2 had a variance of 7.47. However, lot 3 did not perform up to expectations with a variance of 170.29.
+
+Overall, the production as a whole meet the design specifications but that's only because lot 1 and 2 are performing well. Lot 3 needs to improve their processing to decrease their variance margin.
