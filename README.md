@@ -28,3 +28,5 @@ The design specifications for the MechaCar state that it cannot exceed a varianc
 As a whole, the variance was below 100 PSI. From this table, we see there was a variance of 62.29 which meat the design specifications.
 
 ### Suspension Coils for individual lots
+<img width="479" alt="Screen Shot 2022-01-10 at 1 58 12 PM" src="https://user-images.githubusercontent.com/90946252/148831386-ced118d4-5acc-47db-8991-cec2ebcdac23.png">
+
