@@ -41,3 +41,8 @@ The p value of this t-test is 0.06 which means we cannot reject the null hypothe
 
 <img width="635" alt="Screen Shot 2022-01-10 at 2 43 25 PM" src="https://user-images.githubusercontent.com/90946252/148836771-70120b7c-c838-42aa-8224-dd316bfa0abe.png">
 Lots 1 and 2 both have p values of well over the significance level of 0.05 so those are not statistically different from the population mean of 1500. Lot 3 has a p value of 0.04 which means we can reject the null hypothesis and that there is a difference in the mean between lot 3 and the population.
+
+## Study Design: MechaCar vs Competition
+A statistical study I would like to create would be to compare the MechaCar vs other competitors in some key metrics. There are plenty of metrics that deserve to be tested. That includes safety rating, cost of purchase, fuel efficiency for both city and highway, horsepower, and maintenance costs. I googled the most important factors while buying a car and cost to purchase and fuel efficiency (mpg) were commonly listed so I would test those metrics in my original test.
+
+My null hypothesis would be that there is no statistical difference in mpg or purchase cost betwee the MechaCar and the competitors car. The alternative hypothesis would be that there is a statistical difference.
